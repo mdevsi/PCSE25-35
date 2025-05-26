@@ -1,70 +1,44 @@
-Step:1 
-      Download zip file from Github
+# Title of Project: 
+MAP SYNTH : "GIS based interactive global information platform for enhancing Navigation and Data Visualization" 
 
-Step:2 
-      Unzip file in PC
+## 👨‍💻 Team Members:
+| Name                   | Roll Number        |Section  |
+|------------------------|--------------------|---------|
+| Mansi Verma            | 2100290100092      |B        |
+| Parvendra Singh        | 2100290100113      |B        |
+| Rajat Tevatia          | 2100290100128      |B        |
+| Rshabh Kumar Chaudhary | 2200290109012      |B        |
 
-Step:3 
-      Follow steps in each README.md file written in each folders. 
+## Steps for Execution:
+Step 1. **Clone this repository to your local machine**  
+- git clone https://github.com/cse-kiet/PCSE25-35.git
+Step 2. older-wise Setup
+- Custom_Pointer_&_detailed_street Folder
+  1. Open index.html in a browser
+- Detailed_map_all_possiable Folder
+  1. Navigate to the Detailed_map_all_possiable folder
+  2. Create a .env or .env.local file in the root of the folder and add your API key
+  3. Run the project using one of the following:
+     yarn install
+     yarn start
+     
+     OR using npm
+     
+     npm install
+     npm start
+  - Top_rating_schl_hotel_etc_feedback Folder
+    1. Open index.html
 
+## ✅ Project Checklist
 
-## OR 
-
-#Step for Custom_Pointer_&_deatiled_street Folder ----->
-
-
-            Step:1 
-                  Download zip file from Github
-            
-            Step:2 
-                  Unzip file in PC
-            
-            Step:3 
-                  Open index.html
-
-#Step for Detailed_map_all_possiable Folder ----->
-                  
-            
-            Step:1  
-                  Download code zip file from github.
-            
-            Step:2 
-                  Unzip code file.
-            
-            Step:3
-                  Navigate to "Detailed_map_all_possiable" 
-            
-            Step:4 
-                  Add a `.env` file or `.env.local` in the project root and specify your API key as `REACT_APP_GOOGLE_MAPS_API_KEY=your_api_key_here`
-            
-            Step:5
-                   you can run:
-            
-                   ```
-                   yarn install
-                   yarn start
-                   ```
-            
-                   OR using npm
-            
-                   ```
-                   npm install
-                   npm start
-                   ```
-
-#Step for Top_rating_schl_hotel_etc_feedback Folder ----->
-
-
-            Step:1 
-                  Download zip file from Github
-            
-            Step:2 
-                  Unzip file in PC
-            
-            Step:3 
-                  Open index.html
-
-                   
-            
-
-
+| Task                                             | Status       |
+|--------------------------------------------------|--------------|
+| Final Project Report                             | ✅ Done       |
+| Certificate VII Semester (Dated: December 2024)  |        |
+| Certificate VIII Semester (Dated: May 2025)      |        |
+| Synopsis                                         | ✅ Done       |
+| Final Presentation                               | ✅ Done       |
+| Source Code                                      | ✅ Done       |
+| Database Dump (`.sql` file)                      | ❌ Not Required |
+| Docker File (For Web Deployment)                 | ❌ Not Required |
+| README File                                      | ✅ You're reading it! |
